@@ -1,2 +1,2 @@
-MATERIAL DESIGN for app--->
+MATERIAL DESIGN for app ->
 https://material.io/guidelines/style/typography.html#typography-typeface
