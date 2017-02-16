@@ -1,2 +1,5 @@
 MATERIAL DESIGN for app ->
 https://material.io/guidelines/style/typography.html#typography-typeface
+
+RelativeLayout LayoutParams ->
+https://developer.android.com/reference/android/widget/RelativeLayout.LayoutParams.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
